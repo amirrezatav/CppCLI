@@ -1,3 +1,4 @@
+> [Download PDF File](https://drive.google.com/file/d/1oaHnKJNhbb7JJ8bSB-Xwy_DLDqjoeI_t/view?usp=sharing)
 ### 1. Make sure your Visual Studio 2019 have installed C++ package with C++/CLR:
 
 ![](https://uupload.ir/files/8svz_screenshot_2021-04-22_200543.png)
