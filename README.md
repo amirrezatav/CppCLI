@@ -21,7 +21,7 @@ Choose Last Verstion :
 ![](https://uupload.ir/files/akna_screenshot_2021-04-22_200710.png)
 
 **Don't worry, close it and add the following code to the TestForm.cpp:**
-
+```cpp
     using namespace System;
     using namespace System::Windows::Forms;
     
@@ -33,7 +33,7 @@ Choose Last Verstion :
         Test::TestForm form;
         Application::Run(%form);
     }
-    
+```
 ![](https://uupload.ir/files/oz5l_screenshot_2021-04-22_200721.png)
 
 ### 4. Right click on the Project and choose Properties option:
